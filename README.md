@@ -79,9 +79,13 @@
 ## 9. Amati Output print: Perhatikan konsol debug. Kapan saja print('build ${habit.name}') muncul? Bagaimana ini berkaitan dengan aksi Anda (check, add, edit, delete)?
 
 ### 1. Saat aplikasi pertama kali selesai memuat JSON
+
 ### 2. Saat menambahkan habit baru
+
 ### 3. Saat mengedit habit
+
 ### 4. Saat menghapus habit
+
 ### 5. Saat men-centang / un-centang checkbox
 
 **Screenshot:** \
