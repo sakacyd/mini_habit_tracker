@@ -49,14 +49,17 @@
 ## 5. Uji Hapus Habit:
 
 - Klik menu tiga titik pada habit, pilih "Hapus".
-  ![11](screenshots/11.png)
+  **Screenshot:** \
+   ![11](screenshots/11.png)
 
 - Dialog konfirmasi harus muncul. Coba batalkan.
-  ![12](screenshots/12.png)
+  **Screenshot:** \
+   ![12](screenshots/12.png)
   ![13](screenshots/13.png)
 
 - Coba hapus lagi dan konfirmasi. Verifikasi habit hilang dari list.
-  ![14](screenshots/14.png)
+  **Screenshot:** \
+   ![14](screenshots/14.png)
 
 ## 6. Uji Progress Bar: Pastikan progress di AppBar terupdate setelah menambah, menghapus, atau mencentang habit.
 
